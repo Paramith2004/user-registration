@@ -139,13 +139,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ---
 
-## 🖼️ Preview (Optional)
-
-```
-![Register Page](screenshots/<img width="1366" height="645" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/9114c56c-3d61-4a2b-844d-cae13eda8964" />)
-![Login Page](screenshots/login.png)
-```
-
----
 
 ### ⭐ Don’t forget to star this repo if you found it helpful!
