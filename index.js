@@ -2,7 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const bcrypt = require('bcrypt');
-const session = require('express-session');
+const session = require('express-session'); 
 const User = require('./models/user');
 const userRoutes = require('./routes/userRoutes');
 
