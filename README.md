@@ -142,8 +142,8 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ## 🖼️ Preview (Optional)
 
 ```
-<img width="1366" height="645" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/f20e2cf9-e729-4c05-b545-52adff02cf05" />
-<img width="1366" height="641" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/741f9720-7783-4b20-8aa3-3d45de2d9d42" />
+
+<img width="1366" height="641" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/31823621-9ef6-4852-99bd-e8fb3fc90c5e" />
 
 ```
 
